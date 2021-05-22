@@ -7,7 +7,7 @@ Wernicke's Area
 
 # Location
 
-## BroadMann Area
+## Brodmann Area
 
 ## Anatomical Site
 Posterior Temporal Gyrus
@@ -16,10 +16,10 @@ Posterior Temporal Gyrus
 Other sites this region is connected to.
 
 ## Input
-Receives input from: 
+Receives input from:
 
 ## Output
-Sends output to: 
+Sends output to:
 
 # Activation
 Tasks that prompt excitation and activity.

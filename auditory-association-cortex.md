@@ -8,7 +8,7 @@ A2
 
 # Location
 
-## BroadMann Area
+## Brodmann Area
 #ba22
 
 ## Anatomical Site

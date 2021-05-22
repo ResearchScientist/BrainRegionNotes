@@ -8,7 +8,7 @@ STG
 
 # Location
 
-## BroadMann Area
+## Brodmann Area
 #BAunknown
 
 ## Anatomical Site
@@ -18,10 +18,10 @@ superior temporal gyrus
 Other sites this region is connected to.
 
 ## Input
-Receives input from: 
+Receives input from:
 
 ## Output
-Sends output to: 
+Sends output to:
 
 # Activation
 Tasks that prompt excitation and activity.

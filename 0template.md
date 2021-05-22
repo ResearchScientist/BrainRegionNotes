@@ -1,20 +1,18 @@
 # Name
 
-## Full Name
-Visual Word Form Area
+## Full
+
 
 ## Acronym
-VWFA
+
 
 # Location
 
 ## Brodmann Area
-#BAunknown
+
 
 ## Anatomical Site
-#left-fusiform-gyrus
-#left-occipitotemporal-cortex
-not developed in non literates
+
 
 # Connections
 Other sites this region is connected to.
@@ -32,12 +30,9 @@ Tasks that prompt excitation and activity.
 
 ## Inactive
 
-
 # Function
 
 ## Primary
-#reading visual words.
-Connects #speech #sounds and #graphemes.
 
 ## Peripheral
 
@@ -46,6 +41,5 @@ Connects #speech #sounds and #graphemes.
 ## Types
 Types of cells present.
 
-
 ## Organization
-Oganization of cells.
+Organization of cells.

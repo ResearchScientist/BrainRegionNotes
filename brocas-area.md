@@ -7,7 +7,7 @@ Broca's Area
 
 # Location
 
-## BroadMann Area
+## Brodmann Area
 #ba44 #ba45
 
 ## Anatomical Site
@@ -17,10 +17,10 @@ Broca's Area
 Other sites this region is connected to.
 
 ## Input
-Receives input from: 
+Receives input from:
 
 ## Output
-Sends output to: 
+Sends output to:
 
 # Activation
 Tasks that prompt excitation and activity.

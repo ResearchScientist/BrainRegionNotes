@@ -8,7 +8,7 @@ Arcuate Fasciculus
 
 # Location
 
-## BroadMann Area
+## Brodmann Area
 
 
 ## Anatomical Site
