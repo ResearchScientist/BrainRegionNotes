@@ -1,3 +1,3 @@
-# Brain Regions Project
+# Brain Region Notes
 
 Notes regarding cognitive neurolinguistics.
