@@ -31,7 +31,7 @@ Tasks that prompt excitation and activity.
 # Function
 
 ## Primary
-#phonological representation
+- #phonological representation
 
 ## Peripheral
 
@@ -41,4 +41,4 @@ Tasks that prompt excitation and activity.
 Types of cells present.
 
 ## Organization
-Oganization of cells.
+Organization of cells.

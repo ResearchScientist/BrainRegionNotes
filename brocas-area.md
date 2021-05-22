@@ -32,8 +32,8 @@ Tasks that prompt excitation and activity.
 # Function
 
 ## Primary
-Role is unclear in #production , #syntax , #lexical access.
-#Articulatory representation in left frontal cortex is controversial.
+- Role is unclear in #production , #syntax , #lexical access.
+- #articulatory representation in left frontal cortex is controversial.
 
 ## Peripheral
 
@@ -43,4 +43,4 @@ Role is unclear in #production , #syntax , #lexical access.
 Types of cells present.
 
 ## Organization
-Oganization of cells.
+Organization of cells.

@@ -48,4 +48,4 @@ Types of cells present.
 
 
 ## Organization
-Oganization of cells.
+Organization of cells.

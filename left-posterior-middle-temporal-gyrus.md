@@ -33,7 +33,7 @@ Tasks that prompt excitation and activity.
 # Function
 
 ## Primary
-word and #semantic retrieval
+- word and #semantic retrieval
 
 ## Peripheral
 
