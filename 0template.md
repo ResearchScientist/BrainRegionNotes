@@ -40,12 +40,11 @@ Functional role.
 # CYTOARCHITECTURE
 
 ## Types
-Types of cells present.
+Neuronal cells present.
 -
 -
 
 ## Organization
 Organization of cells.
-
 -
 -
