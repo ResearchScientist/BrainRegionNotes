@@ -1,45 +1,48 @@
-# Name
+# NAME
 
-## Full
+## Full:
 
+## Acronym:
 
-## Acronym
-
-
-# Location
-
-## Brodmann Area
+# LOCATION
 
 
-## Anatomical Site
+## Brodmann Area:
 
+## Anatomical Site:
 
-# Connections
+# CONNECTIONS
 Other sites this region is connected to.
 
-## Input
-Receives input from:
+## Input:
+Receives input from.
 
-## Output
-Sends output to:
+## Output:
+Sends output to.
 
-# Activation
+# ACTIVATION
 Tasks that prompt excitation and activity.
 
-## Active
-
-## Inactive
+-
+-
 
 # Function
+Functional role.
 
 ## Primary
+-
+-
 
 ## Peripheral
+-
+-
 
-# Cytoarchitecture
+# CYTOARCHITECTURE
 
 ## Types
 Types of cells present.
+-
+-
 
 ## Organization
 Organization of cells.
