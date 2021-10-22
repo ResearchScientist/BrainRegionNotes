@@ -1,14 +1,13 @@
 # Name
-
-## Full Name
 Broca's Area
 
-## Acronym
+# Acronym
 
 # Location
 
-## Brodmann Area
-#ba44 #ba45
+# Brodmann Area
+- #ba44
+- #ba45
 
 ## Anatomical Site
 

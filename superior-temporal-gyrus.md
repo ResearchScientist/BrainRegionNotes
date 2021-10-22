@@ -1,15 +1,14 @@
 # Name
-
-## Full Name
 Superior Temporal Gyrus
 
 ## Acronym
 STG
 
-# Location
-
-## Brodmann Area
-#BAunknown
+# Brodmann Area
+- #ba22
+- #ba38
+- #ba41
+- #ba42
 
 ## Anatomical Site
 superior temporal gyrus
